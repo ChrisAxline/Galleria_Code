@@ -1,3 +1,5 @@
+#created by Dr. Travis Kochan, PhD
+
 #Load drc package
 library(drc)
 
