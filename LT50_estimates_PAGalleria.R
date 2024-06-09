@@ -55,7 +55,7 @@ LT50s_nonlog <- LT50s
 
 # For each strain extract the time, total worms, and mortality information from the mort table
 # Try to fit to bionomial distribution using drc (drm) - if possible put in LT50s table
-# Done with logtime = 10 as well to compare to case when you convert back to raw time becore fitting to model
+# Done with logtime = 10 as well to compare to case when you convert back to raw time before fitting to model
 for(strain in strains){
   times <- unlist(mort[strain,"time"])
   total_worms <- unlist(mort[strain,"total"])
