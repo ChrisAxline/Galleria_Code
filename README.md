@@ -16,4 +16,8 @@ doi: TBD
   + Include the following headers: Strain/dose, Time, Total Worms, Mortalities, CFU
   + The file type should be a .csv
   + The "Time" column should be hours-post-injection
+ 
+<p align = "center">
+ <img width="401" alt="Screen Shot 2024-06-08 at 4 49 26 PM" src="https://github.com/ChrisAxline/Galleria_Code/assets/110562794/e7452897-18df-4a2c-a6af-c4e9698ecd19">
+</p>
 
