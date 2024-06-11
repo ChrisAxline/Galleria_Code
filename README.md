@@ -21,3 +21,4 @@ doi: TBD
  <img width="401" alt="Screen Shot 2024-06-08 at 4 49 26 PM" src="https://github.com/ChrisAxline/Galleria_Code/assets/110562794/e7452897-18df-4a2c-a6af-c4e9698ecd19">
 </p>
 
+The script fits a sigmoidal curve to the mortality observations from the input file (Fig 4 in the paper linked above) and uses this fit curve to estimate the LT50 for doses where exactly 5 deaths may not have been observed by a researcher during a check.
