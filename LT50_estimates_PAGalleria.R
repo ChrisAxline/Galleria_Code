@@ -1,4 +1,4 @@
-#created by Dr. Travis Kochan, PhD
+#created by Dr. Nathan Pincus, MD, PhD and Dr. Travis Kochan, PhD
 
 #Load drc package
 library(drc)
