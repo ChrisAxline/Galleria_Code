@@ -13,7 +13,7 @@ doi: TBD
  **Using the R-Script**
  
 + Key Tips Regarding Your Input File:
-  + Include the following headers: Strain/dose, Time, Total Worms, Mortalities, CFU
+  + Include the following headers: Strain/dose, Time, Total Larvae, Mortalities, CFU
   + The file type should be a .csv
   + The "Time" column should be hours-post-injection
  
