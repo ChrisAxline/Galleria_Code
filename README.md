@@ -18,7 +18,7 @@ doi: TBD
   + The "Time" column should be hours-post-injection
  
 <p align = "center">
- <img width="401" alt="Screen Shot 2024-06-08 at 4 49 26 PM" src="https://github.com/ChrisAxline/Galleria_Code/assets/110562794/e7452897-18df-4a2c-a6af-c4e9698ecd19">
+<img width="423" alt="Screenshot 2024-07-07 at 7 09 34 PM" src="https://github.com/ChrisAxline/Galleria_Code/assets/110562794/64d35a4a-7b93-4086-aa72-46dace5552b2">
 </p>
 
 The script fits a sigmoidal curve to the mortality observations from the input file (Fig 4 in the paper linked above) and uses this fit curve to estimate the LT50 for doses where exactly 5 deaths may not have been observed by a researcher during a check.
