@@ -1,6 +1,6 @@
 
 ## This R-Script accompanies the paper titled: "Refined methodology for quantifying *Pseudomonas aeruginosa* virulence using *Galleria mellonella*" 
-doi: TBD
+doi: (https://doi.org/10.1128/spectrum.01666-24)
 
 
  **Description:**
